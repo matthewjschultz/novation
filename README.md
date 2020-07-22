@@ -9,12 +9,15 @@ I wanted a template for creating Launchpad Pro MK3 'cheat sheets' and I couldn't
 I used "Avenir Next Medium" as the font, and converted all of the text to outlines so you don't need the font on your system.
 
 ### Individual Files
-- mjs.art-novation-launchpad-pro-mk3.pdf
 - mjs.art-novation-launchpad-pro-mk3.eps
+- mjs.art-novation-launchpad-pro-mk3.pdf
 - mjs.art-novation-launchpad-pro-mk3.svg
 
 ### About The Files
 I've grouped buttons and labels in separate layers to make it easy to turn the labels on/off for printing, if you want/need to do that.
+
+### Revisions
+2020-07-22: Edited README to list files in alphabetical ascending order
 
 ## License
 The Launchpad Pro MK3, its design, the Novation logo, and anything related to the device is wholly and completely owned by Focusrite Plc.
